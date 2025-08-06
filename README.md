@@ -3,7 +3,6 @@
 
 A real-time visual understanding system that analyzes short videos (≤2 mins), detects events and violations using object detection (YOLOv5), summarizes key incidents, and enables conversational interaction with the video using Mistral-7B-based LLM.
 
-![Demo](https://youtu.be/Y1QyB7cpzc0)
 
 ---
 
