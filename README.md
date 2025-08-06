@@ -136,12 +136,8 @@ Built as part of **Mantra Hackathon 2025** to explore real-time video understand
 ## 📬 Contact
 
 - **Developer**: Adesh Kachare  
-- **Email**: your.email@example.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: adesh.k4139@gmail.com  
+- **LinkedIn**: [linkedin.com/in/yourprofile](linkedin.com/in/adesh-k-b90a6a275)  
+- **GitHub**: [@AdeshKachare](https://github.com/AdeshKachare)
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
