@@ -19,6 +19,14 @@ A real-time visual understanding system that analyzes short videos (≤2 mins), 
 
 ---
 
+## 🎥 Project Demo
+
+Watch the full demo on YouTube:  
+[![Watch the video](https://img.youtube.com/vi/Y1QyB7cpzc0/0.jpg)](https://www.youtube.com/watch?v=Y1QyB7cpzc0)
+
+> This video walks through the complete functionality, UI, and how our Visual Understanding Chat Assistant works in real-time during MantraHackathon.
+
+
 ## 🛠️ Tech Stack
 
 | Component              | Technology                                  |
